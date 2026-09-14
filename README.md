@@ -6,6 +6,10 @@ attach_money
 This mod is opted in to our mod rewards program. Edit
 A complete Persian translation for Resident Evil 6. This project translates the game's text, menus, UI, cutscenes, and DLC content into Persian, allowing Persian-speaking players to experience Resident Evil 6 with a fully localized interface and in-game text.
 
+Download For Windows:
+https://github.com/AMIRXBOX1/Resident-Evil-6-Persian-Translation/releases/tag/RE6
+
+
 eatures
 Full in-game text translation
 Cutscene subtitle translation
@@ -112,3 +116,6 @@ Final Fantasy Persian
 https://t.me/ResidentEvil_FanPage
 
 https://t.me/Final_Fantasy_Persian
+
+دانلود فارسی ساز رزیدنت اویل 6 : 
+https://github.com/AMIRXBOX1/Resident-Evil-6-Persian-Translation/releases/tag/RE6
